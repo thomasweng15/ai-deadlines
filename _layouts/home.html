@@ -276,7 +276,7 @@
           }
           subs = [csub];
           console.log(subs);
-          store.set('{{ site.domain }}', subs);
+          store.set('{{ site.domain }}{{ site.baseurl }}', subs);
           window.history.pushState('', '', '/?sub=' + subs.join());
         });
     });
