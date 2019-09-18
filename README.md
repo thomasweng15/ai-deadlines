@@ -1,4 +1,4 @@
-## AI Deadlines [![Build Status](https://travis-ci.com/abhshkdz/ai-deadlines.svg?branch=gh-pages)](https://travis-ci.com/abhshkdz/ai-deadlines)
+## RPAD Deadlines [![Build Status](https://travis-ci.org/thomasweng15/rpad-deadlines.svg?branch=gh-pages)](https://travis-ci.org/thomasweng15/rpad-deadlines.svg?branch=gh-pages)
 
 Countdown timers to keep track of a bunch of CV/NLP/ML/RO conference deadlines.
 
