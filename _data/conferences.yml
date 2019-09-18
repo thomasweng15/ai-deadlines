@@ -124,7 +124,7 @@
   sub: CV
   note: '<b>NOTE</b>: Deadline to be confirmed.'
 
-- title: NeurIPS Robot Learning workshop
+- title: NeurIPS 
   year: 2019
   id: nipsrlw2019
   link: https://nips.cc/Conferences/2019/Schedule?type=Workshop
@@ -133,6 +133,7 @@
   date: December 14, 2019
   place: Vancouver, Canada
   sub: ML
+  note: '<b>NOTE</b>: Robot Learning <a href="http://www.robot-learning.ml/2019/#important-dates">workshop</a>.
 
 - title: AES
   year: 2019
