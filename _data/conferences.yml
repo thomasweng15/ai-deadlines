@@ -81,7 +81,7 @@
   date: May 9-13, 2020
   place: Auckland, New Zealand
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Nov 12, 2019. More info <a href=''https://aamas2020.conference.auckland.ac.nz/call-for-papers/''>here</a>.'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Nov 12, 2019. More info <a href="https://aamas2020.conference.auckland.ac.nz/call-for-papers/">here</a>.'
 
 - title: ACL
   year: 2020
@@ -174,7 +174,7 @@
   date: June 10-15, 2019
   place: Long Beach, USA
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 18, 2019. More info <a href=''https://icml.cc/Conferences/2019/CallForPapers''>here</a>.'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 18, 2019. More info <a href="https://icml.cc/Conferences/2019/CallForPapers">here</a>.'
 
 - title: GECCO
   year: 2019
@@ -215,7 +215,7 @@
   date: August 10-16, 2019
   place: Macau, China
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 19, 2019. More info <a href=''https://www.ijcai19.org/call-for-papers.html''>here</a>.'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 19, 2019. More info <a href="https://www.ijcai19.org/call-for-papers.html">here</a>.'
 
 - title: IROS
   year: 2019
@@ -247,7 +247,7 @@
   place: Tel Aviv, Israel
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on March 04, 2019. More info <a
-    href=''http://auai.org/uai2019/cfp.php''>here</a>.'
+    href="http://auai.org/uai2019/cfp.php">here</a>.'
 
 - title: ICCV
   year: 2019
