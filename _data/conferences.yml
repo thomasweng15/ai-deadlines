@@ -264,7 +264,7 @@
   id: iclrws2019
   link: https://iclr.cc/Conferences/2019/Schedule?type=Workshop
   deadline: '2019-03-29 23:59:59'
-  timezone: UTC+12
+  timezone: UTC-12
   date: May 06, 2019
   place: New Orleans, Louisiana
   sub: ML
