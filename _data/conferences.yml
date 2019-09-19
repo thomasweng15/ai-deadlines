@@ -135,17 +135,6 @@
   sub: CV
   note: '<b>NOTE</b>: Deadline to be confirmed.'
 
-- title: NeurIPS 
-  year: 2019
-  id: nipsrlw2019
-  link: https://nips.cc/Conferences/2019/Schedule?type=Workshop
-  deadline: '2019-09-13 23:59:59'
-  timezone: UTC-12
-  date: December 14, 2019
-  place: Vancouver, Canada
-  sub: ML
-  note: '<b>NOTE</b>: Robot Learning <a href="http://www.robot-learning.ml/2019/#important-dates">workshop</a>.'
-
 - title: AES
   year: 2019
   id: aes2019
@@ -269,6 +258,17 @@
   date: October 27 - November 2, 2019
   place: Seoul, Korea
   sub: CV
+  
+  - title: ICLR Workshop
+  year: 2019
+  id: iclrws2019
+  link: https://iclr.cc/Conferences/2019/Schedule?type=Workshop
+  deadline: '2019-03-29 23:59:59'
+  timezone: UTC+12
+  date: May 06, 2019
+  place: New Orleans, Louisiana
+  sub: ML
+  note: '<b>NOTE</b>: <a href="https://tarl2019.github.io/">Task-Agnostic Reinforcement Learning</a.'
 
 - title: InterSpeech
   year: 2019
@@ -419,6 +419,17 @@
   date: February 7-12, 2020
   place: New York, USA
   sub: ML
+
+- title: NeurIPS Workshop
+  year: 2019
+  id: nipsrlw2019
+  link: https://nips.cc/Conferences/2019/Schedule?type=Workshop
+  deadline: '2019-09-13 23:59:59'
+  timezone: UTC-12
+  date: December 14, 2019
+  place: Vancouver, Canada
+  sub: ML
+  note: '<b>NOTE</b>: Robot Learning <a href="http://www.robot-learning.ml/2019/#important-dates">workshop</a>.'
 
 - title: ICRA
   year: 2020
