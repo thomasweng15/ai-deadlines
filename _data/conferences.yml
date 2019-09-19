@@ -145,6 +145,17 @@
   place: York, UK
   sub: SP
 
+- title: ICLR Workshop
+  year: 2019
+  id: iclrws2019
+  link: https://iclr.cc/Conferences/2019/Schedule?type=Workshop
+  deadline: '2019-03-29 23:59:59'
+  timezone: UTC-12
+  date: May 06, 2019
+  place: New Orleans, Louisiana
+  sub: ML
+  note: '<b>NOTE</b>: <a href="https://tarl2019.github.io/">Task-Agnostic Reinforcement Learning</a>.'
+
 - title: NAACL
   year: 2019
   id: naacl19
