@@ -2,25 +2,14 @@
 ---
 
 - title: Nvidia Fellowship
-  year: 2019
-  id: nvidia2029
+  year: 2020
+  id: nvidia2020
   link: https://www.nvidia.com/en-us/research/graduate-fellowships/
   deadline: '2019-09-13 23:59:59'
   timezone: America/New_York
-  date: September 19, 2019
+  date: N/A
   place: N/A
   sub: RO
-
-- title: NERC
-  year: 2019
-  id: nerc2019
-  link: https://nerc.seas.upenn.edu/
-  deadline: '2019-09-25 23:59:59'
-  timezone: America/New_York
-  date: October 25, 2019
-  place: Philadelphia, PA
-  sub: RO
-  note: '<b>NOTE</b>: Poster deadline Oct 1.'
 
 - title: ALT
   year: 2020
@@ -41,6 +30,17 @@
   date: April 30, 2020
   place: Addis Ababa, Ethiopia
   sub: ML
+  
+- title: NERC
+  year: 2019
+  id: nerc2019
+  link: https://nerc.seas.upenn.edu/
+  deadline: '2019-10-01 23:59:59'
+  timezone: America/New_York
+  date: October 25, 2019
+  place: Philadelphia, PA
+  sub: RO
+  note: '<b>NOTE</b>: Poster deadline Oct 1.'
 
 - title: HRI
   year: 2020
@@ -50,6 +50,16 @@
   timezone: America/Los_Angeles
   date: March 23-26, 2020
   place: Cambridge, UK
+  sub: RO
+
+- title: Facebook Fellowship
+  year: 2020
+  id: facebook2020
+  link: https://research.fb.com/programs/fellowship/
+  deadline: '2019-10-04 23:59:59'
+  timezone: America/New_York
+  date: N/A
+  place: N/A
   sub: RO
 
 - title: AISTATS
@@ -71,6 +81,16 @@
   date: May 4-8, 2020
   place: Barcelona, Spain
   sub: SP
+  
+- title: NASA STR Fellowship
+  year: 2020
+  id: nstrf2020
+  link: https://www.nasa.gov/directorates/spacetech/strg/nstgro
+  deadline: '2019-11-01 23:59:59'
+  timezone: UTC
+  date: N/A
+  place: N/A
+  sub: RO
 
 - title: CVPR
   year: 2020
